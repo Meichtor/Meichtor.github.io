@@ -1,2 +1,2 @@
-# Welcome to my projects compilation.
-Build all projects here.
+# Welcome to my projects compilation
+Collect all projects here.
