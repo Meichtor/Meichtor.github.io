@@ -1,2 +1,2 @@
-# meichtor.github.io
-Build all projects
+# Welcome to my projects compilation.
+Build all projects here.
